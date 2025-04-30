@@ -5,3 +5,11 @@
 [submodule "preMetabolizer"]
 	path = preMetabolizer
 	url = https://github.com/ConnorB/preMetabolizer
+[submodule "streamMetabolizer"]
+	path = streamMetabolizer
+	url = https://github.com/DOI-USGS/streamMetabolizer
+	registered = false
+[submodule "unitted"]
+	path = unitted
+	url = https://github.com/appling/unitted
+	registered = false

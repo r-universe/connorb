@@ -1,0 +1,14 @@
+[
+  {
+    "package": "streamMetabolizer",
+    "url": "https://github.com/DOI-USGS/streamMetabolizer",
+    "via": ["preMetabolizer"],
+    "from": "preMetabolizer"
+  },
+  {
+    "package": "unitted",
+    "url": "https://github.com/appling/unitted",
+    "via": ["preMetabolizer", "streamMetabolizer"],
+    "from": "preMetabolizer"
+  }
+]

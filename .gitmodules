@@ -1,5 +1,7 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
+	url = https://github.com/connorb/connorb.r-universe.dev
 	branch = HEAD
+[submodule "preMetabolizer"]
+	path = preMetabolizer
+	url = https://github.com/ConnorB/preMetabolizer

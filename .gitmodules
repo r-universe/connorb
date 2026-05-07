@@ -2,6 +2,6 @@
 	path = .registry
 	url = https://github.com/connorb/connorb.r-universe.dev
 	branch = HEAD
-[submodule "preMetabolizer"]
-	path = preMetabolizer
-	url = https://github.com/ConnorB/preMetabolizer
+[submodule "flowcam"]
+	path = flowcam
+	url = https://github.com/ConnorB/flowcam

@@ -5,3 +5,6 @@
 [submodule "flowcam"]
 	path = flowcam
 	url = https://github.com/ConnorB/flowcam
+[submodule "preMetabolizer"]
+	path = preMetabolizer
+	url = https://github.com/ConnorB/preMetabolizer
